@@ -36,3 +36,5 @@ Outro tratamento dado, foi em realização de atualização dos dados, sendo sol
 # Link do Dashboard
 ____________________________________________________________________________________________________________________________________________________________________
 
+https://app.powerbi.com/view?r=eyJrIjoiZWNmMzQ0YzgtMDM2NC00ZDUwLTlhN2QtNjYzNzhjNGU1ZDAzIiwidCI6IjNkMGUxOTVhLTIxMWQtNDdlZS04N2ZjLTI5MjNmMWZlNDE3NSJ9&pageName=ReportSection1be9622eb7d556184c94
+
